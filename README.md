@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abdulrezza181
-- 👀 I’m interested in jamal
-- 🌱 I’m currently smk
+- 👀 I’m interested pemrograman
+- 🌱 I’m currently smk harapan bangsa
 - 💞️ I’m looking to collaborate on football
-- 📫 How to reach me hahah
+- 📫 How to reach me 
 
 <!---
 abdulrezza181/abdulrezza181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
